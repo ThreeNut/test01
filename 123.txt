@@ -1,2 +1,2 @@
-我的ssh git remote add origin  git@github.com:ThreeNut/zou.git
-https  https://github.com/ThreeNut/zou.git
+我的ssh git remote add origin  git@github.com:ThreeNut/test01.git
+https  https://github.com/ThreeNut/test01.git
